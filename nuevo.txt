@@ -1,2 +1,4 @@
 Archivo nuevo para practicar git
 ## :) ##
+Antes de stage
+
